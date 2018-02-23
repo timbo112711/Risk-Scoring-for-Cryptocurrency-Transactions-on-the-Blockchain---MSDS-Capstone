@@ -1,4 +1,4 @@
-https://www.inc.com/melissa-thompson/this-company-is-bringing-credit-to-the-blockchain.htmlThis text file contains an ongoing list of potentially relevant web links for our Capstone project, as follows:
+This text file contains an ongoing list of potentially relevant web links for our Capstone project, as follows:
 
 https://www.k2intelligence.com/en/insights/thought-leadership/april-15-isnt-just-tax-day-its-also-aml-certification-compliance-day?utm_source=LinkedIn&utm_medium=cpc
 https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
@@ -15,3 +15,4 @@ https://www.bloom.solutions/
 https://www.saltlending.com/
 https://www.americanbanker.com/news/can-blockchain-be-used-to-build-a-better-credit-bureau
 https://www.makeuseof.com/tag/blockchain-credit-agencies/
+https://www.inc.com/melissa-thompson/this-company-is-bringing-credit-to-the-blockchain.html

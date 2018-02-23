@@ -1,0 +1,52 @@
+
+- Problem statment
+____________________
+  - chance to be use for bad needs, way to emitigate that bad behavior
+  - risk management 
+    - risk score cards
+    - insurance products 
+    - something we can model (risk model) 
+    - scoring built into blockchain 
+    - based on participants 
+    - id the different users 
+      - based on transaction 
+      - atest that someone is something 
+      - addresses 
+    - atestations that statisically tell us how likely it is indeed how they say they are 
+      - can not be tampered with 
+    - important to go private 
+      - need it for setting an exchange 
+      - need to know id's in settlement or qualification 
+    - repuation scores for ateatation
+      - separate the insuracne from scoring 
+      - atestation is everything 
+      - high awareness 
+      - certificate authorities for the addresses(public key) 
+        - have a group of these that can atest the addresses 
+      - two factor authentication 
+      - someone transacts with bad accounts then their score lowers 
+      - based on? 
+        - there are no restrictions 
+        - how does chase flag an account or JP Morjan 
+        - transferring too much then get fined 
+        - the paper/digtal will be whats in the block 
+      - classification algorithm and see how to make it go viral  
+      - stick ith looking at CA's and sign addresses as a person 
+      - trust in the addresses 
+      - social media trust 
+        - being verified 
+      - verification 
+      - ALM/KYC
+        - verification methods to see who is who to see if that person is trustworthy
+        - de centralizesd world need to score trust 
+        - wondering if BC network can be built to ID misused transactions 
+        - not centeralized 
+        - can't work (no output) 
+        - no regulations are placed on BC network
+        - can educate the market on risks (high and low)
+        - memHack
+          - lost half billion tokens 
+          - tagged the tockens to let know they are black market
+        - providing a simple structure for people to follow 
+       
+    

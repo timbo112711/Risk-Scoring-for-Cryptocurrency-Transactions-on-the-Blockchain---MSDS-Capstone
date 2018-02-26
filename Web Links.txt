@@ -1,3 +1,4 @@
+
 This text file contains an ongoing list of potentially relevant web links for our Capstone project, as follows:
 
 Data Set(s):
@@ -20,3 +21,9 @@ https://www.saltlending.com/
 https://www.americanbanker.com/news/can-blockchain-be-used-to-build-a-better-credit-bureau
 https://www.makeuseof.com/tag/blockchain-credit-agencies/
 https://www.inc.com/melissa-thompson/this-company-is-bringing-credit-to-the-blockchain.html
+https://www.forbes.com/sites/bernardmarr/2017/12/06/a-short-history-of-bitcoin-and-crypto-currency-everyone-should-read/#7207a2a13f27
+https://www.eurostaffgroup.com/cryptocurrency/
+https://en.wikipedia.org/wiki/Cryptocurrency
+https://sputniknews.com/analysis/201801211060937124-cryptocurrency-evolution-of-financial-system/
+https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/
+http://www.businesspundit.com/history-of-cryptocurrency/

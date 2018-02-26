@@ -1,0 +1,26 @@
+Problem Statement:
+ 
+Creating a unique authentication certificate/protocol (mechanism) for transactors of cryptocurrencies that will contain identity and a reputation score of individual transactors to make the transaction secured and trustworthy.
+
+is it the problem statement we are focusing on?
+
+If yes, how the topic of AML could be associated with this?
+
+Any particular web con service for conference and screen share?
+
+For our write up:
+
+1. Abstract (1/2 page)
+    1. Problem.
+    2. Mortivation
+    3. Result
+    4. Solution
+2. Introduction (approx 2 pages)
+    2A. Motivation
+    2B. Problem Satement
+    2C. Proposed Solution (??)
+    2D. Paper Organization
+3. Tutorial Material / (approx 2-3 pages)
+    3A. Cryptocurrency
+    3B. Blockchain 
+4. Data (approx. 1 page)

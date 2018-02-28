@@ -27,3 +27,9 @@ https://en.wikipedia.org/wiki/Cryptocurrency
 https://sputniknews.com/analysis/201801211060937124-cryptocurrency-evolution-of-financial-system/
 https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/
 http://www.businesspundit.com/history-of-cryptocurrency/
+https://www.kaggle.com/parithy/bitcoin-pricing-analysis?scriptVersionId=1970444
+https://bitinfocharts.com/cryptocurrency-charts.html
+https://www.livecoinwatch.com/
+https://coinmarketcap.com/
+https://coinmarketcap.com/currencies/bitcoin/historical-data/
+https://coinmarketcap.com/currencies/ethereum/historical-data/

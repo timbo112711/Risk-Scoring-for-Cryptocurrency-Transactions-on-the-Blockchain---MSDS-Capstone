@@ -33,3 +33,4 @@ https://www.livecoinwatch.com/
 https://coinmarketcap.com/
 https://coinmarketcap.com/currencies/bitcoin/historical-data/
 https://coinmarketcap.com/currencies/ethereum/historical-data/
+https://www.quandl.com/data/BCHAIN-Blockchain

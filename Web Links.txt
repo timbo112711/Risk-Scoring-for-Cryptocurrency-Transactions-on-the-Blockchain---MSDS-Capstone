@@ -34,3 +34,5 @@ https://coinmarketcap.com/
 https://coinmarketcap.com/currencies/bitcoin/historical-data/
 https://coinmarketcap.com/currencies/ethereum/historical-data/
 https://www.quandl.com/data/BCHAIN-Blockchain
+https://qz.com/1049669/chinas-tencent-hkg-0700-is-quietly-testing-a-social-credit-score-based-on-peoples-online-behavior/
+https://www.nytimes.com/2018/01/04/business/china-alibaba-privacy.html

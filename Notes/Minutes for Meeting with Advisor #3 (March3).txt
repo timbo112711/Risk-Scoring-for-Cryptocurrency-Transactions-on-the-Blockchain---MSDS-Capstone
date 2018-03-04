@@ -1,0 +1,45 @@
+Things to do/look up:
+____________________
+
+- Look at IPFS whitepaper!!!! 
+
+Problem statement:
+_________________
+
+We create an authentication protocol that uniquly
+verifies the identity and computes a reputation score 
+of individual cryptocurrency transactors as a means 
+of making the cryptocurrency marketplace more secure and 
+trustworthy.
+
+- Protocol scored indiviual(transactor)
+- If the score is against the public keys, run rep score agasint the PK?
+  - let the person's PK be scored
+  - ID of PK is only way to track transactions 
+  - Reputation score on PK 
+  - Self decleared rep scoreing
+    - requirment of the PK holder to maintane his/her rep score 
+  - Verified on the BC by the PK holder 
+  - Can't be gamed becuase it is on the BC 
+  - People can check it but not tamper with it 
+  - Vuluntery rep score 
+    - Thumbs up/ thumbs down based on transactions 
+- Once in block, it can't be tampered with
+  - Timestamp
+- Block stamps 
+  - score get bluid on pointer in bock that become the historical record 
+  - blocks have timestamps 
+- Membership that allows rep to be a part of the PK ownership 
+  - data were authenticated by xyz rep score algotrium
+  - can share score with someone becasue it can't be tampered with 
+  - only when onwer of that data wants to share
+  - someone can ask what it is 
+    - entity that was a repo, a PK can set the params to see if the conditions are 
+      met in which someone can accpet the score based on the request 
+- Bulit into protocol or user wish to participte 
+- Average joe would want to control his own scores and see's the reason to do it 
+  - Bad actors will get over run by good acters 
+- Rep score will flush the bad acters out 
+- Initial coin offering 
+
+

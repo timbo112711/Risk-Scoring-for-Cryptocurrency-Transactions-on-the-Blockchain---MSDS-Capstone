@@ -3,6 +3,10 @@ This text file contains an ongoing list of potentially relevant web links for ou
 
 Data Set(s):
 https://www.kaggle.com/bigquery/bitcoin-blockchain
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data
+https://www.kaggle.com/kingburrito666/ethereum-historical-data/data
+https://www.kaggle.com/mczielinski/bitcoin-historical-data/data
+https://www.quandl.com/data/BCHAIN-Blockchain
 
 Articles/Literature:
 https://www.k2intelligence.com/en/insights/thought-leadership/april-15-isnt-just-tax-day-its-also-aml-certification-compliance-day?utm_source=LinkedIn&utm_medium=cpc
@@ -33,6 +37,6 @@ https://www.livecoinwatch.com/
 https://coinmarketcap.com/
 https://coinmarketcap.com/currencies/bitcoin/historical-data/
 https://coinmarketcap.com/currencies/ethereum/historical-data/
-https://www.quandl.com/data/BCHAIN-Blockchain
 https://qz.com/1049669/chinas-tencent-hkg-0700-is-quietly-testing-a-social-credit-score-based-on-peoples-online-behavior/
 https://www.nytimes.com/2018/01/04/business/china-alibaba-privacy.html
+https://ipfs.io/

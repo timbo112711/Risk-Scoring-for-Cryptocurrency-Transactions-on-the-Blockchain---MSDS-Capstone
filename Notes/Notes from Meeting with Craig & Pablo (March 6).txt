@@ -1,0 +1,36 @@
+
+
+Goal:	Build a reputation score against every entity (public key) --> 1. transaction history & 2. tracing the coin flow i.e. dig into the coin journey since its inception
+
+Build an algorithm with an objective of 1 & 2.
+
+minedit -> pools -> address tagged as pool address
+boughtit -> exchange -> address tagged as exchange address
+stoleit -> uncertified 
+
+Next steps:
+
+1. Build a transaction history
+2. Recurssively trace the coin flow
+3. Find pools signature
+
+Additional advanced steps:
+
+1. exchange of coins that is known as Atomic Swaps
+
+
+
+Links:
+
+https://blockexplorer.com/
+
+https://etherscan.io/address/0x5555408798fc584eecd37f0e9d6e8fe609c4dc63
+
+https://faa.st/portfolio#/address/0xFBb1b73C4f0BDa4f67dcA266ce6Ef42f520fBB98
+
+https://whalesburg.com/
+
+https://enforum.bitmain.com/bbs/topics/4420
+
+
+

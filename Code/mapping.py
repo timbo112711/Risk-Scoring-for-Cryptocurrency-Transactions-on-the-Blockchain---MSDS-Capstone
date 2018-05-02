@@ -5,7 +5,7 @@
 ## Import Lib's 
 import pandas as pd
 from pandas.io import gbq
-import random
+import urllib2
 
 ## Insert the BigQuery Project ID
 projectid = ""
@@ -24,7 +24,7 @@ for g in mt_Gox_Hack['outputs_output_pubkey_base58'].unique():
     try:
         gox_pubKeys = gbq.read_gbq('SELECT timestamp, transaction_id, inputs.input_pubkey_base58, outputs.output_satoshis, outputs.output_pubkey_base58 FROM (FLATTEN(DB.transactions_all, outputs.output_satoshis)) WHERE inputs.input_pubkey_base58 == "{}"'.format(g), projectid)
         gbq.to_gbq(gox_pubKeys, 'DB.{}'.format(g), projectid, if_exists='replace')
-    except KeyError, e:
+    except urllib2.HTTPError, e:
         print("Error! type:{} - message:{}".format(str(type(e)), str(e)))
     
     #print(g)
@@ -41,7 +41,7 @@ for x in transaction['inputs_input_pubkey_base58'].unique():
     try:
         pubKey = gbq.read_gbq('SELECT timestamp, transaction_id, inputs.input_pubkey_base58, outputs.output_satoshis, outputs.output_pubkey_base58 FROM (FLATTEN(DB.transactions_all, outputs.output_satoshis)) WHERE inputs.input_pubkey_base58 == "{}"'.format(x), projectid)
         gbq.to_gbq(pubKey, 'DB.{}'.format(x), projectid, if_exists='replace')
-    except KeyError, e:
+    except urllib2.HTTPError, e:
         print("Error! type:{} - message:{}".format(str(type(e)), str(e)))
         
     #print(x)

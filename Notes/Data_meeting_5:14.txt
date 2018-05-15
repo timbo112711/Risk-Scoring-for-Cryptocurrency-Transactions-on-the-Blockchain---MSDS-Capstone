@@ -1,0 +1,64 @@
+Data meeting 5/14:
+___________________
+
+- Data
+    - kaggle 
+    - Matbea as secondary source to check the addresses 
+        - use this site to set flags (address/transactions) for bad actors 
+        - pooled (flag for category)
+            - newly minted coins to th same address 
+            - 1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE
+
+        - exchange(flag for category)
+            - 
+
+        - good actor(rep score)
+            - 
+
+        - bad actor(rep score)
+            - many inputs to one output 
+
+- for now focus on scoring 40-50 transactions 
+    - score based on transactions and parameters listed below 
+    - give number score and reason why it has that score 
+
+- start with decision tree
+    - decide if it is a bad actor
+    - train on 40-50 scores then apply to kaggle data
+
+- attributes to include:
+    - primary addresses 
+    - transactions 
+    - timestamps 
+    - amount (should be relatively low amount)
+
+- parameters to base score on bad actors 
+    - frequency of the transactions 
+    - newly minted coin
+    - amount of Bitcoin (should be low)
+
+    - query the those transactions in Matbea and based on those parameters give a score 
+
+- address score is based off of all transaction scores 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+5/27 Meeting:
+_____________
+
+- find random number between 300,000 (2014-05-10) and 500,000 (2017-12-18)
+- systematic sample with every 10th transaction inside a block
+- start systematic sample from 1st transaction
+
+- 50 blocks each and Dan is going to draw 150 random numbers for blocks
+- Dan working on 1-50, Tim - 51-100 and Sudip 101-150

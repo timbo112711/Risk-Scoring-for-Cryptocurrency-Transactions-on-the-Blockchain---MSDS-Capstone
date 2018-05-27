@@ -1,0 +1,27 @@
+5/23 Meeting:
+_____________
+
+profile:
+
+classify the type player - Exchange/individual
+
+
+create a list of pooled and exchanged transactions off of matbea.com 
+- pooled = newly minted coin that goes to the same input 
+- exchange = an transaction which sends BTC to, for example to "bitrix.com"
+
+high/low risk: if fall outside the mean for the type of class given to the address 
+    - amount of BTC
+    - timestamp/speed of transaction(derived from speed of input/output transactions) x 10 
+
+train a classifier on these parameters
+
+
+
+
+look at:
+
+stripe.com
+
+
+

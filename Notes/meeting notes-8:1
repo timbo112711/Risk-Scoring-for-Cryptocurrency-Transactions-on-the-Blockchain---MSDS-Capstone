@@ -1,0 +1,29 @@
+1) justify why the risk metric is appropriate. 
+2) talk about the boundary case (new users, AKA NEWBiEE) where the transaction count is 0. 
+3) metric comes from the genesis/initiation block. 
+4) state the limitations. 
+5) more complex metric to compare to the basic one. 
+	- 1 + h/t
+	- X + h/t
+		- define X
+	- 1/t + h/t
+		- in that case risk score ranges from 0-2
+	- Risk score = T*(T-h)/T if T>0 = 0 if T = 0
+		- then higher the risk score is better and everybody starts from 0 reputation and need to work hard to build a reputation
+6) say why we didn't take into consideration the profiled transaction history. 
+7) in later sections
+	- address ID WHATWHATWHATWHATWHATWHATWHAT
+		- dont use this
+		- use entity or user 
+8) conclusion 
+	a) 2-3 paragraphs on the solution to the problem 
+		- what is the risk score
+		- data used
+		- process we took 
+	b) results of analysis 
+	c) discoveries 
+	d) learnings
+		- like limitations etc. 
+	e) based on what we did 
+		- what can we conclued
+9) don't add cites in the figure captions 

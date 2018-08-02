@@ -10,6 +10,8 @@
 		- in that case risk score ranges from 0-2
 	- Risk score = T*(T-h)/T if T>0 = 0 if T = 0
 		- then higher the risk score is better and everybody starts from 0 reputation and need to work hard to build a reputation
+	- T*(1-h/T)
+		- Score = 0 if T=0, & T*(1-h/T) if T>0
 6) say why we didn't take into consideration the profiled transaction history. 
 7) in later sections
 	- address ID WHATWHATWHATWHATWHATWHATWHAT
